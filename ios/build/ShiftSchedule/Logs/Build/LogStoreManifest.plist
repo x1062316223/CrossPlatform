@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>98EE528E-7535-4F98-9B08-0D0F95ECB0FE</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>98EE528E-7535-4F98-9B08-0D0F95ECB0FE.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShiftSchedule project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ShiftSchedule</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace ShiftSchedule with scheme ShiftSchedule and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>590650027.43622398</real>
+			<key>timeStoppedRecording</key>
+			<real>590650028.05177295</real>
+			<key>title</key>
+			<string>Building workspace ShiftSchedule with scheme ShiftSchedule and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>98EE528E-7535-4F98-9B08-0D0F95ECB0FE</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

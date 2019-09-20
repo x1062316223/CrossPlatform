@@ -1,0 +1,4 @@
+#Thu Sep 19 11:39:37 AEST 2019
+base.0=/Users/zhentingxia/Documents/ShiftSchedule/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
